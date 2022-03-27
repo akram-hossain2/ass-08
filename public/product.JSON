@@ -1,58 +1,58 @@
 [
     {
     "id":1,
-    "name":"Akram",
-    "price":10,
-    "image":"https://upload.wikimedia.org/wikipedia/commons/6/65/Syed_Akram_Hossen.jpg"
+    "name":"Vivo Y12",
+    "price":1500,
+    "image":"https://m.media-amazon.com/images/I/51320C1CrsL._SX679_.jpg"
     },
     {
     "id":2,
-    "name":"Dell Inspiron 15-5570",
-    "price":500,
-    "image":"https://laptoping.com/specs/wp-content/uploads/2018/11/Dell-Inspiron-15-5570-i5570-5279SLV-PUS.jpg "
+    "name":"OPPO A16",
+    "price":2500,
+    "image":"https://fdn.gsmarena.com/imgroot/news/21/07/oppo-a16-official/-1200x500m/gsmarena_001.jpg"
     },
     {
     "id":3,
-    "name":"HP Pavilio 14",
-    "price":600,
-    "image":" https://hk-files.apjonlinecdn.com/npi/hp-pavilion-14-laptops/rich-content/images/content-row-background-8-mobile.jpg"
+    "name":"Xiaomi 12T",
+    "price":1400,
+    "image":" https://www.mymobilesprice.com/wp-content/uploads/2021/12/Xiaomi-11T.jpg"
     },
     {
     "id":4,
-    "name":"HP Notebook 15",
-    "price":520,
-    "image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06586248.png "
+    "name":"OPPO A72",
+    "price":3000,
+    "image":"https://infofull.net/wp-content/uploads/2020/04/oppo-a723.png"
     },
     {
     "id":5,
-    "name":"LG Gram 17-inch",
-    "price":1849,
-    "image":"https://www.lg.com/us/images/laptops/md07500001/gallery/desktop-01.jpg "
+    "name":"OPPO F15",
+    "price":2500,
+    "image":"https://www.mobiledokan.com/wp-content/uploads/2020/04/Oppo-F15-new.jpg "
     },
     {
     "id":6,
-    "name":"Apple MacBook Air 13",
-    "price":986,
-    "image":"https://www.tradeinn.com/f/13787/137870845/apple-macbook-air-13-m1-8gb-256gb-ssd-laptop.jpg "
+    "name":"OPPO F17",
+    "price":1400,
+    "image":"https://mamurdukan.com/wp-content/uploads/2021/06/Oppo-F17-pro-Metallic-White-600x600.jpg "
     },
     
     {
     "id":7,
-    "name":"Samsung Glaxy Book Pro",
-    "price":1306,
-    "image":"https://i.expansys.net/img/b/359879/samsung-galaxy-book-pro-360-13-3-1080p-touch-screen.jpg"
+    "name":"OPPO Reno4",
+    "price":1300,
+    "image":"https://i0.wp.com/www.mobiledor.com/wp-content/uploads/Oppo-Reno4-Pro-Bangladesh.jpg?fit=400%2C400&ssl=1"
     },
     
     {
     "id":8,
-    "name":"Samsung NoteBook Plus 2",
-    "price":1033,
-    "image":"https://mspoweruser.com/wp-content/uploads/2021/01/Samsung-Notebook-Plus2.jpg"
+    "name":"Vivo Y20",
+    "price":1300,
+    "image":"https://www.mobiledam.com.bd/assets/img/Vivo-Y20G-Official-image-500x500.webp"
     },
     {
     "id":9,
-    "name":"Sony Vaio E Series",
-    "price":853,
-    "image":"https://cdn.pocket-lint.com/r/s/1200x/assets/images/115526-laptops-news-hands-on-sony-vaio-e-series-pictures-and-hands-on-image1-a8QlyLG76W.jpg"
+    "name":"VI=ivo Y19",
+    "price":4000,
+    "image":"https://m.media-amazon.com/images/I/51VUf4PBIaL._SX679_.jpg"
     }
 ]
