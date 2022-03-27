@@ -34,7 +34,7 @@ function Cart(props) {
                 })
             }
             <div className='mt-3 '>
-                <button onClick={chooseForMe} className='btn btn-sm btn-danger d-block p-2'>Choose Any</button>
+                <button onClick={chooseForMe} className='btn btn-sm btn-primary d-block p-2'>Choose Any</button>
                 <button onClick={resetYour} className='btn btn-sm btn-outline-danger mt-3 p-2'>Choose Again</button>
 
             </div>

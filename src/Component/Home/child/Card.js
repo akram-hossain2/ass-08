@@ -9,7 +9,7 @@ function Card(props) {
             <div className="card-body">
                 <h5 className="card-title">{name}</h5>
                 <p className="card-text">Price : $ {price}</p>
-                <button onClick={() => props.handler(props.product)} className="btn btn-success border-5">Pick This Item <i className="fa-solid fa-cart-plus ms-2"></i></button>
+                <button onClick={() => props.handler(props.product)} className="btn btn-primary border-5">Pick This Item <i className="fa-solid fa-cart-plus ms-2"></i></button>
             </div>
         </div>
       
