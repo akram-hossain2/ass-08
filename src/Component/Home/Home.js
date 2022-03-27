@@ -64,6 +64,20 @@ const Home = () => {
                     />
                 </div>
             </div>
+            {/* error message 1  */}
+            <div id='alert-limit' className='alert-box fixed-top'>
+                <h1>You can select only 4 Product</h1>
+                <i onClick={close} className="fa-solid fa-xmark"></i>
+            </div>
+            {/* error message 2 */}
+            <div id='alert-selected' className='alert-box fixed-top'>
+                <h1>Alrady selected</h1>
+                <i onClick={close} className="fa-solid fa-xmark"></i>
+            </div>
+            <div className='container my-5'>
+            <Bonus />
+            </div>
+        </div>
     )
 }
 
