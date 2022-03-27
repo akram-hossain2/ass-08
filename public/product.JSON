@@ -1,0 +1,58 @@
+[
+    {
+    "id":1,
+    "name":"Akram",
+    "price":10,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/6/65/Syed_Akram_Hossen.jpg"
+    },
+    {
+    "id":2,
+    "name":"Dell Inspiron 15-5570",
+    "price":500,
+    "image":"https://laptoping.com/specs/wp-content/uploads/2018/11/Dell-Inspiron-15-5570-i5570-5279SLV-PUS.jpg "
+    },
+    {
+    "id":3,
+    "name":"HP Pavilio 14",
+    "price":600,
+    "image":" https://hk-files.apjonlinecdn.com/npi/hp-pavilion-14-laptops/rich-content/images/content-row-background-8-mobile.jpg"
+    },
+    {
+    "id":4,
+    "name":"HP Notebook 15",
+    "price":520,
+    "image":"https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06586248.png "
+    },
+    {
+    "id":5,
+    "name":"LG Gram 17-inch",
+    "price":1849,
+    "image":"https://www.lg.com/us/images/laptops/md07500001/gallery/desktop-01.jpg "
+    },
+    {
+    "id":6,
+    "name":"Apple MacBook Air 13",
+    "price":986,
+    "image":"https://www.tradeinn.com/f/13787/137870845/apple-macbook-air-13-m1-8gb-256gb-ssd-laptop.jpg "
+    },
+    
+    {
+    "id":7,
+    "name":"Samsung Glaxy Book Pro",
+    "price":1306,
+    "image":"https://i.expansys.net/img/b/359879/samsung-galaxy-book-pro-360-13-3-1080p-touch-screen.jpg"
+    },
+    
+    {
+    "id":8,
+    "name":"Samsung NoteBook Plus 2",
+    "price":1033,
+    "image":"https://mspoweruser.com/wp-content/uploads/2021/01/Samsung-Notebook-Plus2.jpg"
+    },
+    {
+    "id":9,
+    "name":"Sony Vaio E Series",
+    "price":853,
+    "image":"https://cdn.pocket-lint.com/r/s/1200x/assets/images/115526-laptops-news-hands-on-sony-vaio-e-series-pictures-and-hands-on-image1-a8QlyLG76W.jpg"
+    }
+]
