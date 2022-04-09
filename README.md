@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts : Fake Store
 
-In the project directory, you can run:
+
+In the project directory, you can run: https://cheery-sunshine-593985.netlify.app
 
 ### `npm start`
 
